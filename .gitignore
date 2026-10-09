@@ -1,0 +1,9 @@
+train/
+valid/
+test/
+indexed_7class_clean/train/
+indexed_7class_clean/valid/
+indexed_7class_clean/test/
+runs/
+*.pt
+__pycache__/

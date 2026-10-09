@@ -1,0 +1,13 @@
+path: D:/skin_disease/indexed_7class_clean
+train: train/images
+val: valid/images
+test: test/images
+nc: 7
+names:
+- Acne
+- Blackhead
+- Whitehead
+- Cystic
+- Papular
+- Purulent
+- Scars
